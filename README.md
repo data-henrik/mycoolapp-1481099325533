@@ -1,5 +1,8 @@
 # Java Cloudant Web Starter Overview - Henrik's Edition
 
+
+Good morning, what a start....
+
 The Java Cloudant Web Starter demonstrates how to use the Bluemix Cloudant NoSQL DB service. This application helps users organize their favorite files. The UI talks to a RESTful JAX-RS CRUD backend API.
 
 ### Running the application locally in Liberty
