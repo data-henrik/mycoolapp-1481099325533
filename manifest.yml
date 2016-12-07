@@ -1,0 +1,11 @@
+applications:
+- path: JavaCloudantApp.war
+  memory: 512M
+  instances: 1
+  domain: bm.4loeser.net
+  name: mycoolapp
+  host: mycoolapp
+  disk_quota: 1024M
+  services:
+  - mycoolapp-cloudantNoSQLDB
+  - availability-monitoring-auto
